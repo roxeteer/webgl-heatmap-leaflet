@@ -1,0 +1,5 @@
+{
+  "name": "webgl-heatmap-leaflet",
+  "version": "1.0.0",
+  "main": "js/webgl-heatmap.js"
+}
